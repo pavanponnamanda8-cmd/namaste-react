@@ -1,0 +1,30 @@
+{
+  "name": "namaste_react",
+  "version": "1.0.0",
+  "description": "This is namaste react by akshay saini",
+  "keywords": [],
+  "homepage": "https://github.com/pavanponnamanda8-cmd/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/pavanponnamanda8-cmd/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanponnamanda8-cmd/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "Akshay",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
